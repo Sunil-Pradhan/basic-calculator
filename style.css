@@ -1,0 +1,38 @@
+/* URL: https://www.youtube.com/watch?v=yIdA6HvUi_Q */
+
+.container {
+  text-align: center;
+  margin-top: 23px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 21px;
+  border: 5px solid #244624;
+  font-size: 34px;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+button {
+  border-radius: 20px;
+  font-size: 40px;
+  background: #7d7aa2;
+  width: 102px;
+  height: 58px;
+  color: rgb(230, 230, 230);
+  outline: none;
+  height: 90px;
+  margin: 2px;
+}
+
+.calculator {
+  background-color: #5a819e;
+  padding: 23px;
+  border-radius: 53px;
+  display: inline-block;
+  border: 4px solid black;
+}
